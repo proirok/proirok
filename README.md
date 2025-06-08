@@ -1,4 +1,11 @@
-## Hi there 👋
+## プロイロクのプロフィール
+- 主な使用言語:pythonとjavascript
+- 主な開発環境はVscordとGoogle apps script
+- 趣味: プログラミング・音楽鑑賞(ROCKやJ-POPなど)etc...
+- 座右の銘:「信じてなければなし得ないことがきっと何処かで僕らの訪れを待っている」(Mr.Children「prelude」より)
+- アイコンは
+
+## proirok's profile
 
 <!--
 **proirok/proirok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
