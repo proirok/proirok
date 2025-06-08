@@ -1,18 +1,8 @@
-## プロイロクのプロフィール
-<img src="Screenshot_2025-06-07_11.54.55.png" alt="アイコン画像" width="200"/>
+### プロイロクのプロフィール
+<img src="Screenshot_2025-06-07_11.54.55.png" alt="アイコン画像" width="150"/>
 
 - 主な使用言語：python・javascript
 - 主な開発環境：Vscord・Google apps script
-- 趣味：プログラミング・音楽鑑賞(ROCKやJ-POPなど)etc...
-- 座右の銘：「信じてなければなし得ないことがきっと何処かで僕らの訪れを待っている」(Mr.Children「prelude」より)
-- 好きな色：青(特に水色)・緑・黒
-
-## proirok's profile
-- Main programing language：python, javascript
-- Main editor：Vscord, Google apps script
-- Hobby：programing, music(ROCK & J-POP)etc...
-- My motto：「Believe it, and you may be able do it someday」(from Mr.Children「prelude」)
-- favorite color：blue, gleen, blcak
 
 <!--
 **proirok/proirok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
